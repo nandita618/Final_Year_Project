@@ -8,13 +8,7 @@ env/
 dataset/
 colab_files_to_train_model/
 
-# Saved models and large weight files
-saved_models/
-*.h5
-*.pt
-*.pth
-*.ckpt
-*.sav
+
 
 # Python cache
 __pycache__/
